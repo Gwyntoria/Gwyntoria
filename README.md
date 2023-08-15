@@ -7,4 +7,4 @@
 - Weixin Official Account Writer
 - I live in the Xihu Area in Hangzhou
 
-[![Gwyntoria's GitHub stats](https://github-readme-stats.vercel.app/api?Gwyntoria=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Gwyntoria's GitHub stats](https://github-readme-stats.vercel.app/api?Anzel77=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
