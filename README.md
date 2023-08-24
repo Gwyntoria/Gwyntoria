@@ -1,8 +1,9 @@
-## I'm Gwyntoria
+## Hello World!
 
+- I'm Gwyntoria
 - Embedded Software Engineer
 - Amateur Algorithm Engineer
-- Weixin Official Account Writer
+- Poet
 - Living in the Xihu Area in Hangzhou
 
 ## Languages I Use
@@ -17,4 +18,4 @@
 
 ![Gwyntoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anzel77&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzel77&show_icons=true&theme=dracula&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzel77&show_icons=true&theme=dracula&layout=compact) -->
