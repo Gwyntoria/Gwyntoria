@@ -16,6 +16,6 @@
 
 ---
 
-![Gwyntoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anzel77&show_icons=true&theme=dracula)
+![Gwyntoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwyntoria&show_icons=true&theme=dracula)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzel77&show_icons=true&theme=dracula&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwyntoria&show_icons=true&theme=dracula&layout=compact) -->
