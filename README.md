@@ -19,3 +19,11 @@
 ![Gwyntoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwyntoria&show_icons=true&theme=dracula)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwyntoria&show_icons=true&theme=dracula&layout=compact) -->
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gwyntoria/Gwyntoria/blob/output/profile-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Gwyntoria/Gwyntoria/blob/output/profile-snake.svg" />
+  <img alt="github-profile-snake" src="https://github.com/Gwyntoria/Gwyntoria/blob/output/profile-snake.svg" />
+</picture>
