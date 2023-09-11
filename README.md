@@ -1,3 +1,7 @@
+## Recently
+
+- The blog website is currently under construction！
+
 ## Hello World!
 
 - I'm Xinze Hu
