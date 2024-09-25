@@ -1,6 +1,7 @@
 ## Recently
 
 - The blog website is currently under construction！
+- The first article of the my interview collection (闻言录) has been updated!
 
 ## Hello World!
 
@@ -8,7 +9,9 @@
 - Embedded Software Engineer
 - Amateur Algorithm Engineer
 - Poet
+- Photographer
 - Living in the Xihu Area in Hangzhou
+- Official Account: gwyn_space
 
 ## Languages I Use
 
