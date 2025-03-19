@@ -32,7 +32,10 @@
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-fbede5?style=flat&logo=pytorch&logoColor=%23EE4C2C">
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-fbe3d1?style=flat&logo=tensorflow&logoColor=%23FF6F00">
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-FFFAFA?logo=opencv&logoColor=5C3EE8">
-<img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-F0F8FF?logo=unrealengine&logoColor=0E1128">
+<img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal_Engine-F0F8FF?logo=unrealengine&logoColor=0E1128"> <img alt="Unity" src="https://img.shields.io/badge/Unity-white?logo=unity&logoColor=black">
+<img alt="Godot Engine" src="https://img.shields.io/badge/Godot_Engine-dfedf8?logo=godotengine&logoColor=478CBF">
+
+
 
 
 <!-- --- -->
