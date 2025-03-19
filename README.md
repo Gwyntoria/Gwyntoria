@@ -17,7 +17,7 @@
 
 <img alt="C++" src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img alt="Golang" src="https://img.shields.io/badge/Go-4169E1?logo=go"> <img alt="Java" src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
-<img alt="C#" src="https://img.shields.io/badge/C%23-d05afa">
+<img alt="C#" src="https://img.shields.io/badge/C%23-7c03a7">
 
 ## Tech & Tools Preference
 
