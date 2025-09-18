@@ -5,7 +5,6 @@
 - British History Column No. 2: [《丹麦人和诺曼人征服下的英格兰》](https://mp.weixin.qq.com/s/CLGPnxQgUbmmXwfuidzICw)
 - British History Column No. 1: [《英格兰的诞生》](https://mp.weixin.qq.com/s/PlmFszptlT8HhneLIS4ODg)
 - The first article of the my interview collection(闻言录), [《对话胡欣：自由且自信的灵魂》](https://mp.weixin.qq.com/s/haRxjsSvE8bgMVcrAcjmig), has been updated!
-- The blog website is currently under construction！
 
 ## Hello World!
 
