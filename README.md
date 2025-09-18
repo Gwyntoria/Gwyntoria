@@ -11,7 +11,7 @@
 - Poet
 - Photographer
 - Living in the Xihu Area in Hangzhou
-- Weixin Official Account: gwyn_space
+- Weixin Official Account: gwyn_space(翻香令)
 
 ## Languages I Use
 
