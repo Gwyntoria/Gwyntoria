@@ -11,10 +11,10 @@
 
 - I'm Xinze Hu
 - Embedded Software Engineer
-- Amateur Algorithm Engineer
+- System Architecture Engineer
 - Poet
 - Photographer
-- Living in the Xihu Area in Hangzhou
+- Living in Shenzhen
 - Weixin Official Account: gwyn_space(翻香令)
 
 ## Languages I Use
