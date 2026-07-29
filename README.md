@@ -1,3 +1,5 @@
+<h1 align="center"><img alt="profile-cover" src="./assets/profile-cover.png"/></h1>
+
 ## Recently
 
 - British History Column No. 5: [《金雀花王朝的终结：玫瑰战争始末》](https://mp.weixin.qq.com/s/a7ha2TGQkZTK3r1bdJ9oPQ)
