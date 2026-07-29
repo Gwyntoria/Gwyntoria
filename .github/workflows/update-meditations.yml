@@ -1,4 +1,4 @@
-name: Update recent meditations
+name: Update monthly article collections
 
 on:
   schedule:
@@ -31,7 +31,9 @@ jobs:
         run: python -m unittest discover -s tests -v
 
       - name: Update README
-        run: python scripts/update_recent.py meditations
+        run: |
+          python scripts/update_recent.py pointless-poetry
+          python scripts/update_recent.py meditations
 
       - name: Commit README when changed
         run: |
@@ -43,5 +45,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update meditations"
+          git commit -m "chore: update monthly article collections"
           git push

@@ -98,6 +98,14 @@ class UpdateRecentTest(unittest.TestCase):
                 markers["end_marker"],
             )
 
+    def test_collection_markers_are_unique(self) -> None:
+        marker_pairs = {
+            (collection["start_marker"], collection["end_marker"])
+            for collection in COLLECTIONS.values()
+        }
+
+        self.assertEqual(len(marker_pairs), len(COLLECTIONS))
+
 
 if __name__ == "__main__":
     unittest.main()

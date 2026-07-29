@@ -23,6 +23,12 @@ MEDITATIONS_URL = (
     "&action=getalbum"
     "&album_id=1621262515634552833"
 )
+POINTLESS_POETRY_URL = (
+    "https://mp.weixin.qq.com/mp/appmsgalbum"
+    "?__biz=MzU3NDgyNzYwNg%3D%3D"
+    "&action=getalbum"
+    "&album_id=2055741719874273280"
+)
 ARTICLE_COUNT = 5
 COLLECTIONS = {
     "annual-book-list": {
@@ -34,6 +40,11 @@ COLLECTIONS = {
         "album_url": MEDITATIONS_URL,
         "start_marker": "<!-- MEDITATIONS:START -->",
         "end_marker": "<!-- MEDITATIONS:END -->",
+    },
+    "pointless-poetry": {
+        "album_url": POINTLESS_POETRY_URL,
+        "start_marker": "<!-- POINTLESS_POETRY:START -->",
+        "end_marker": "<!-- POINTLESS_POETRY:END -->",
     },
 }
 
