@@ -1,4 +1,4 @@
-name: Update recent annual book list
+name: Sync annual book list
 
 on:
   schedule:

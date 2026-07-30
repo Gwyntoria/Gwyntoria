@@ -1,4 +1,4 @@
-name: Update monthly article collections
+name: Sync monthly article collections
 
 on:
   schedule:
